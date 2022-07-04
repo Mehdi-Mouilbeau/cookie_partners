@@ -24,6 +24,7 @@
     "react-router-dom": "^6.3.0",
     "react-toast-component": "^1.4.18",
     "react-toastify": "^9.0.5",
+    "semantic-ui-react": "^2.1.3",
     "sweetalert": "^2.1.2",
     "sweetalert2": "^11.4.19",
     "template-fullstack": "file:.."
