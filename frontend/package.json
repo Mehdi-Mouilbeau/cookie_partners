@@ -10,6 +10,7 @@
     "fix": "prettier --write . && eslint --fix --ext .jsx ."
   },
   "dependencies": {
+    "@emotion/styled": "^11.9.3",
     "@mui/material": "^5.8.6",
     "@ramonak/react-progress-bar": "^5.0.1",
     "chart": "^0.1.2",
